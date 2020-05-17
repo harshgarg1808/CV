@@ -1,0 +1,30 @@
+.container{
+  background-color: grey;
+  width: 600px;
+  height: 600px;
+}
+
+.top{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:600px;
+}
+
+.middle{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:400px;
+}
+
+.bottom{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:100px;
+}
+    
